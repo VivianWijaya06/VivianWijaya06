@@ -2,7 +2,6 @@
 ### ✨ Hi, I'm Vivian Wijaya 🌸
 
 🎓 **Student at Universitas Ciputra Makassar**  
-🎧 Fun Fact: I love **doing coding assignments while listening to music** 💜
 
 ---
 
