@@ -6,7 +6,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VivianWijaya06&theme=radical&no-frame=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VivianWijaya06&theme=dracula&no-frame=false&margin-w=4)
 
 ---
 
@@ -16,19 +16,28 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VivianWijaya06&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VivianWijaya06&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianWijaya06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VivianWijaya06&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VivianWijaya06&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianWijaya06&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VivianWijaya06&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=VivianWijaya06&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivianWijaya06/VivianWijaya06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivianWijaya06/VivianWijaya06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VivianWijaya06/VivianWijaya06/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivianWijaya06/VivianWijaya06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivianWijaya06/VivianWijaya06/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VivianWijaya06/VivianWijaya06/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+### 🌸 Let's Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vivianwijaya_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivianwijaya)
+
+---
+
+*✨ Passionate about coding and design. Always learning new things! ✨*
