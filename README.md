@@ -3,14 +3,6 @@
 
 🎓 **Student at Universitas Ciputra Makassar**  
 
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=VivianWijaya06&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
----
-
 ### 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -31,14 +23,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivianWijaya06&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianWijaya06&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" height="180" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VivianWijaya06&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=VivianWijaya06&theme=radical)
 
 ---
 ### 🔝 Top Contributed Repo
