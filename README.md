@@ -6,8 +6,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=VivianWijaya06&theme=radical)
-
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=VivianWijaya06&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 ---
 
 ### 💻 Tech Stack:
@@ -30,9 +31,14 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivianWijaya06&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=VivianWijaya06&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianWijaya06&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivianWijaya06&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianWijaya06&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VivianWijaya06&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</p>
+
 
 ---
 ### 🔝 Top Contributed Repo
